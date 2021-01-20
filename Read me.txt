@@ -1,0 +1,9 @@
+This is red cake
+
+
+
+S1: create cream
+
+S2: apply cream to cake
+
+S3: Some Garnishing
